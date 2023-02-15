@@ -35,7 +35,7 @@ const Users = () => {
           return (
             <li key={index}>
               <div className="userBox">
-                UserName: {user.username}
+                <b>UserName:</b> {user.username}
                 <br />
                 Name: {user.name}
                 <br />
