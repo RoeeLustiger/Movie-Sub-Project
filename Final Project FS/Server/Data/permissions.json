@@ -1,0 +1,10 @@
+[
+  { "id": 1, "permission": "View Subscriptions" },
+  { "id": 2, "permission": "Create Subscriptions" },
+  { "id": 3, "permission": "Delete Subscriptions" },
+  { "id": 4, "permission": "Update Subscriptions " },
+  { "id": 5, "permission": "View Movies" },
+  { "id": 6, "permission": "Create Movies" },
+  { "id": 7, "permission": "Delete Movies" },
+  { "id": 8, "permission": "Update Movie" }
+]

@@ -1,0 +1,81 @@
+.logInPage {
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+  margin: 100px;
+  /* width: 350px;
+  height: 200px;  */
+  text-align: center;
+}
+
+.createAccuontPage {
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+  margin: 100px;
+  /* width: 350px;
+    height: 200px;  */
+  text-align: center;
+}
+
+.memberBox {
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+  margin-bottom: 8px;
+}
+
+.userBox {
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+  margin-bottom: 8px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.movies {
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+}
+
+.movie {
+  border-width: 0.5px;
+  border-color: black;
+  border-style: solid;
+  width: 50%;
+}
+
+.subsricptionsWatched {
+  border-width: 0.5px;
+  border-color: black;
+  border-style: solid;
+  float: right;
+  margin-right: 200px;
+  padding: 20px;
+}
+.subsricptionsUser {
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+  margin-bottom: 8px;
+  margin-right: 600px;
+}
+.newMovie {
+  border-width: px;
+  border-color: red;
+  border-style: solid;
+}
+
+.sub {
+  list-style-type: circle;
+  margin-left: 10 !important;
+}
+
+.lisub {
+  padding-left: 25;
+}
